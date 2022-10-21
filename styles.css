@@ -1,0 +1,10 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.head h3{
+    border: 10px;
+    border-color: black;
+    border: solid;
+    padding: 10pxg;
+}
